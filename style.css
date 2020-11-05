@@ -1,0 +1,17 @@
+
+
+#banner {
+    border-style: solid;
+    background-color: black;
+    height: 40px;
+    position: relative;
+}
+
+.menu {
+    color: #d0d0d0;
+    padding: 8px;
+}
+
+span {
+    margin:35px;
+}
